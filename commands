@@ -1,0 +1,2 @@
+java -Xmx8G -jar server.jar nogui
+./ngrok tcp --region eu 25565
